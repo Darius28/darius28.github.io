@@ -37,7 +37,10 @@
 
 @media (min-width: 769px)
 {
-    
+    .collapse ul
+    {
+        display: none;
+    }
     
     button
     {
